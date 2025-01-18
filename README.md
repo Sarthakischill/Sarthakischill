@@ -78,7 +78,7 @@ When I'm not pushing commits or debugging code, you can find me:
 [![X](https://img.shields.io/badge/X-Sarthakhuh-000000?style=flat-square&logo=x)](https://x.com/Sarthakhuh)
 [![Substack](https://img.shields.io/badge/Substack-sarthakkastack-FF6719?style=flat-square&logo=substack)](https://substack.com/@sarthakkastack)
 [![Email](https://img.shields.io/badge/Email-sarthakshitole@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:sarthakshitole@gmail.com)
-[![Spotify](https://img.shields.io/badge/Spotify-Sarthak-1DB954?style=flat-square&logo=spotify)][(https://open.spotify.com/user/31ejsyaoldtu656s7sgqmb7pikqe?si=fe222c16bca2418d)]
+[![Spotify](https://img.shields.io/badge/Spotify-Sarthak-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/user/31ejsyaoldtu656s7sgqmb7pikqe?si=fe222c16bca2418d)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Sarths-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Sarths)
 
 ---
