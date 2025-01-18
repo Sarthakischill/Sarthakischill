@@ -14,6 +14,24 @@ I'm a final year Computer Science Engineering student passionate about building 
 - 💡 Interested in: Full-stack development, AI/ML, and community building
 - 📚 Hobbies: Reading classics and contemporary fiction
 
+<div align="center">
+  <img src="/api/placeholder/1200/400" alt="Silicon Valley Cover" width="100%" />
+  <i>Always ready to compress with middle-out algorithm 😉</i>
+</div>
+
+## Life Beyond Code 🎭
+
+When I'm not pushing commits or debugging code, you can find me:
+
+- 📺 Rewatching Silicon Valley and relating way too much to Richard Hendricks
+- 📚 Getting lost in both classic literature and contemporary fiction
+- 🎧 Curating spotify playlists for every mood and coding session
+- 🎬 Analyzing tech references in movies and shows
+- 📖 Reading everything from Asimov to Andy Weir
+- 🎮 Taking breaks with some strategic gaming sessions
+- ☕ Crafting the perfect cup of coffee while brainstorming new project ideas
+- 🌱 Contributing to open source and learning from the community
+
 ## Tech Stack 💻
 
 ### Languages & Frameworks
@@ -39,6 +57,7 @@ I'm a final year Computer Science Engineering student passionate about building 
 [![Substack](https://img.shields.io/badge/Substack-sarthakkastack-FF6719?style=flat-square&logo=substack)](https://substack.com/@sarthakkastack)
 [![Email](https://img.shields.io/badge/Email-sarthakshitole@gmail.com-D14836?style=flat-square&logo=gmail)](mailto:sarthakshitole@gmail.com)
 [![Spotify](https://img.shields.io/badge/Spotify-Sarthak-1DB954?style=flat-square&logo=spotify)](https://open.spotify.com/user/Sarthak)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-Sarths-FFDD00?style=flat-square&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Sarths)
 
 ---
 
