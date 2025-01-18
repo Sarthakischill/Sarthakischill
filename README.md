@@ -16,7 +16,7 @@ I'm a final year Computer Science Engineering student passionate about building 
 - 📚 Hobbies: Reading classics and contemporary fiction
 
 <div align="center">
-  <img src="/api/placeholder/1200/400" alt="Silicon Valley Cover" width="100%" />
+  <img src= "sillicon-valley.jpg" />
   <i>Always ready to compress with middle-out algorithm 😉</i>
 </div>
 
