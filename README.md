@@ -35,7 +35,7 @@ When I'm not pushing commits or debugging code, you can find me:
 - ☕ Crafting the perfect cup of coffee while brainstorming new project ideas
 - 🌱 Contributing to open source and learning from the community
 
-## Tech Stack 💻
+## Tech 💻
 
 ### Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
