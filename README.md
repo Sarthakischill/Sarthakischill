@@ -1,11 +1,11 @@
-# Hi there! I'm Sarthak 👋 
+# Hi there! I'm Sarthak 
 *I'm just a chill guy*
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Community+Builder" alt="Typing SVG" />
 </div>
 
-## About Me 🚀
+## About Me 
 
 I'm a final year Computer Science Engineering student passionate about building impactful solutions and contributing to the developer community. I blend technical expertise with design thinking to create intuitive and efficient applications. When I'm not coding or designing, you'll find me diving into classic literature, binge-watching tech shows, or exploring new technologies.
 
@@ -21,7 +21,7 @@ I'm a final year Computer Science Engineering student passionate about building 
   <i></i>
 </div>
 
-## Life Beyond Code 🎭
+## Life Beyond Code 
 
 When I'm not pushing commits or debugging code, you can find me:
 
