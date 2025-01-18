@@ -17,7 +17,7 @@ I'm a final year Computer Science Engineering student passionate about building 
 
 <div align="center">
   <img src= "sillicon-valley.jpg" />
-  <i>Always ready to compress with middle-out algorithm 😉</i>
+  <i></i>
 </div>
 
 ## Life Beyond Code 🎭
