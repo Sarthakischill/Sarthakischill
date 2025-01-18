@@ -1,4 +1,5 @@
 # Hi there! I'm Sarthak 👋 
+*I'm just a chill guy*
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+%26+ML+Enthusiast;Open+Source+Contributor;Community+Builder" alt="Typing SVG" />
