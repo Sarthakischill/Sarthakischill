@@ -9,7 +9,7 @@
 
 I'm a final year Computer Science Engineering student passionate about building impactful solutions and contributing to the developer community. I blend technical expertise with design thinking to create intuitive and efficient applications. When I'm not coding or designing, you'll find me diving into classic literature, binge-watching tech shows, or exploring new technologies.
 
-- 🔭 Currently working on: Building an ERP system from scratch
+- 🔭 Currently working on: CodingChai
 - 🌱 Learning: Prisma, Rust, Three.js
 - 👯 Looking to collaborate on: Open source projects
 - 💡 Interested in: Full-stack development, UI/UX Design, AI/ML
